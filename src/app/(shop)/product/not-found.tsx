@@ -7,7 +7,7 @@ export default function () {
   return (
     <PageNotFound
       code="404"
-      title="Whoops! Lo sentimos mucho la categoria no existe."
+      title="Whoops! Lo sentimos mucho, el producto no existe."
     />
   );
 }
