@@ -10,3 +10,5 @@ export * from './product/quantity-selector/QuantitySelector';
 export * from './product/Slideshow/ProductSlideShow';
 export * from './product/Slideshow/ProductMobileSlideshow';
 export * from './ui/footer/Footer';
+export * from './ui/Input/FormLabel';
+export * from './ui/Input/InputText';
